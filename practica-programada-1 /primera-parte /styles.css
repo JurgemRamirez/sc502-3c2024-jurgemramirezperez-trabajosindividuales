@@ -1,0 +1,87 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;    /* by setting margin to 0, horizontal scroll-bar is removed. */
+    background-color: #1b1b32;
+    color: #f5f6f7;    /* text color */
+    font-family: Tahoma;
+    font-size: 16px
+  }
+  
+  label {
+    display: block;    /* make label elements appear on separate lines (label elements are inline by default). */
+    margin: 0.5rem 0;    /* enables spacing between lines */
+  }
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  form {
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 60vw;
+    padding-bottom: 2em;
+  }
+  
+  fieldset {
+    /* padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 0;
+    padding-right: 0; */
+    padding: 2rem 0;
+    border: none;    /* removes default border */
+    border-bottom: 3px solid #3b3b4f;
+  }
+  
+  /* This targets the last fieldset element and sets a change. */
+  fieldset:last-of-type {border-bottom: none;}
+  
+  input, textarea, select {
+    width: 100%;    /* makes label text appear above the form elements. */
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    min-height: 2em;
+  }
+  
+  input, textarea {
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+  }
+  
+  
+  /* attribute selector: selects an element based on the given attribute value. */
+  input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;    /* aligns the button at the center */
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width: 300px;
+  }
+  
+  input[type="file"] {
+    padding: 1px 2px;
+  }
+  
+  a {
+    color: #dfdfe2;
+  }
+  
+  
+  /* class selectors */
+  .inline {
+    width: unset;    /* removes the earlier rule that set all the input elements to width: 100%. */
+    margin-right: 0.5em;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
