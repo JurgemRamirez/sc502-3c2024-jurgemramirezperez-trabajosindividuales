@@ -1,0 +1,10 @@
+EL estado de Cuenta:
+************************
+ID: 673544423b1b9 | Descripción: Jurgem ramirez | Monto: ₡2010
+ID: 673544535f25d | Descripción: Jared | Monto: ₡1000
+ID: 67354689c6f77 | Descripción: Ramirez | Monto: ₡3000
+************************
+Monto Contado: ₡1,220.00
+Interés (2.6%): ₡31.72
+Cashback (0.1%): ₡1.22
+Monto Final de Pagar: ₡1,250.50
