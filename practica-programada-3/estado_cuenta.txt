@@ -1,10 +1,10 @@
 EL estado de Cuenta:
 ************************
-ID: 673544423b1b9 | Descripción: Jurgem ramirez | Monto: ₡2010
-ID: 673544535f25d | Descripción: Jared | Monto: ₡1000
-ID: 67354689c6f77 | Descripción: Ramirez | Monto: ₡3000
+ID: 673cc3bc0ad36 | Descripción: hola | Monto: ₡100
+ID: 673cc3cb4e75a | Descripción: pedro | Monto: ₡200
+ID: 673cc3dbb8725 | Descripción: fg | Monto: ₡300
 ************************
-Monto Contado: ₡1,220.00
-Interés (2.6%): ₡31.72
-Cashback (0.1%): ₡1.22
-Monto Final de Pagar: ₡1,250.50
+Monto Contado: ₡600.00
+Interés (2.6%): ₡15.60
+Cashback (0.1%): ₡0.60
+Monto Final de Pagar: ₡615.00
